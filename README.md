@@ -18,7 +18,7 @@
 
 ### Output: 
 
-![digital lock system]([https://github.com/sai-70349/CODETECH-Task-2/blob/main/digital.png?raw=true](https://github.com/Naveen970-14/CODTECH--Task-2/blob/main/Digital%20Lock%20output.jpeg?raw=true))
+![digital lock system](https://github.com/Naveen970-14/CODTECH--Task-2/blob/main/Digital%20Lock%20output.jpeg?raw=true)
 
 ## Project Overview: Digital Lock System
 
